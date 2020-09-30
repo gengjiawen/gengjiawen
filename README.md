@@ -9,4 +9,4 @@ Collaborator of Node.js, react-native, uvwasi 🤪
 
 Currently mainly focus on V8, quic, and wasi
 
-<script src="https://gist.github.com/gengjiawen/6a56e69a7ce289480850146e1f8b3a3e.js"></script>
+<img src="https://api.gengjiawen.com/dg_code_stats.png" />
