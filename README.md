@@ -5,8 +5,8 @@ Hi there 👋
 
 I am a software engineer in China, most of my work is on android, react-native, frontend and Node.js.
 
-Collaborator of Node.js, react-native, uvwasi 🤪
+Collaborator of [Node.js](https://github.com/nodejs/node), [react-native](https://github.com/facebook/react-native), [uvwasi](https://github.com/cjihrig/uvwasi) 🤪
 
-Currently mainly focus on V8, quic, and wasi
+Currently mainly focus on V8, quic, wasi and compiler staff.
 
 <img src="https://api.gengjiawen.com/dg_code_stats.png" />
