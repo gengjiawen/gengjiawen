@@ -9,4 +9,4 @@ Collaborator of [Node.js](https://github.com/nodejs/node), [react-native](https:
 
 Currently mainly focus on V8, quic, wasi and compiler staff.
 
-<img src="https://api.gengjiawen.com/dg_code_stats.png" />
+![gengjiawen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gengjiawen&layout=compact)
