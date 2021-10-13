@@ -13,11 +13,9 @@ Currently mainly focus on V8, quic, wasi and compiler staff.
 
 
 ## Thanks for my open-source supporter
+* https://gitpod.io
+* https://www.jetbrains.com
 
-### Gitpod
+<!-- 
 [![Gitpod](https://community.gitpod.io/uploads/default/original/2X/0/02205996e1e84567d4fe3458ef0c01ce895afcf6.png)](https://gitpod.io)
-
-### JetBrains
-
-[![JetBrains](https://raw.githubusercontent.com/sergree/matchering/master/images/JetBrains.png)](https://www.jetbrains.com)
-
+[![JetBrains](https://raw.githubusercontent.com/sergree/matchering/master/images/JetBrains.png)](https://www.jetbrains.com) -->
