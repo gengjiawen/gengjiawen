@@ -16,9 +16,7 @@ Currently mainly focus on ui framework (preact native), quickjs, network and com
 * [modern_industrial_software](https://github.com/gengjiawen/modern_industrial_software) - A production-grade Electron + React + TypeScript template focused on industrial desktop software, with Mantine UI, Excel data processing, visualization, auto-updates, and built-in i18n.
 
 ## Thanks for my open-source supporter
-* https://gitpod.io
 * https://www.jetbrains.com
 
 <!-- 
-[![Gitpod](https://community.gitpod.io/uploads/default/original/2X/0/02205996e1e84567d4fe3458ef0c01ce895afcf6.png)](https://gitpod.io)
 [![JetBrains](https://raw.githubusercontent.com/sergree/matchering/master/images/JetBrains.png)](https://www.jetbrains.com) -->
